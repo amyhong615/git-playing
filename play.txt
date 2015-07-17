@@ -1,3 +1,4 @@
 This is for playing around to show checkout and other diff uses.
-This is too quick
+
 Diff can look across versions in history
+I dont know what to doooo
